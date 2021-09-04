@@ -6,24 +6,6 @@ body{
 	margin: 0 auto;
 	width: 980px;
 }
-
-
-/*.icons-container {
-  margin: 0;
-  height: 100vh;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-}
-.icons-container > .icon-container {
-  padding: 1em 1.2em;
-  border-radius: 0.5em;
-  transition: all 0.2s ease-in-out;
-}
-.icons-container.animated > .icon-container {
-  animation: raise-container 0.3s forwards 0.8s;
-}
-*/
 .icons-container{
 		height: 100vh;
 		display: flex;
